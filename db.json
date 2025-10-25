@@ -1,6 +1,5 @@
-[
-    {
-        "realmId": "medad",
+{
+    "Medad": {
         "displayName": "Medad",
         "themeName": "New Medad",
         "primaryColor": "#4A90E2",
@@ -8,8 +7,7 @@
         "backgroundColor": "#DDD",
         "textColor": "#2C3E50"
     },
-    {
-        "realmId": "naseej",
+    "Naseej": {
         "displayName": "Naseej",
         "themeName": "Modern Naseej",
         "primaryColor": "#8E44AD",
@@ -17,4 +15,4 @@
         "backgroundColor": "#FAFAFA",
         "textColor": "#D3443D"
     }
-]
+}
