@@ -1,18 +1,40 @@
 {
     "Medad": {
-        "displayName": "Medad",
-        "themeName": "New Medad",
-        "primaryColor": "#4A90E2",
-        "secondaryColor": "#50E3C2",
-        "backgroundColor": "#DDD",
-        "textColor": "#2C3E50"
+        "displayName": "New Medad",
+        "themes": {
+            "Cat": {
+                "primaryColor": "#4A90E2",
+                "secondaryColor": "#50E3C2",
+                "backgroundColor": "#DDD",
+                "textColor": "#2C3E50",
+                "logo": "medad-logo.png"
+            },
+            "Dog": {
+                "primaryColor": "#F5A623",
+                "secondaryColor": "#D0021B",
+                "backgroundColor": "#FFF",
+                "textColor": "#4A4A4A",
+                "logo": "medad-dog-logo.png"
+            }
+        }
     },
     "Naseej": {
         "displayName": "Naseej",
-        "themeName": "Modern Naseej",
-        "primaryColor": "#8E44AD",
-        "secondaryColor": "#3498DB",
-        "backgroundColor": "#FAFAFA",
-        "textColor": "#D3443D"
+        "themes": {
+            "Cat": {
+                "primaryColor": "#4A90E2",
+                "secondaryColor": "#50E3C2",
+                "backgroundColor": "#DDD",
+                "textColor": "#2C3E50",
+                "logo": "naseej-cat-logo.png"
+            },
+            "Dog": {
+                "primaryColor": "#F5A623",
+                "secondaryColor": "#D0021B",
+                "backgroundColor": "#FFF",
+                "textColor": "#4A4A4A",
+                "logo": "naseej-dog-logo.png"
+            }
+        }
     }
 }
