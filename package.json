@@ -6,6 +6,7 @@
     "authors": "Mohamed Hashem",
     "scripts": {
         "start": "node index.js",
+        "serve-db": "json-server --watch db.json",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
