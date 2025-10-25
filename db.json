@@ -1,0 +1,18 @@
+{
+    "Medad": {
+        "displayName": "Medad",
+        "themeName": "New Medad",
+        "primaryColor": "#4A90E2",
+        "secondaryColor": "#50E3C2",
+        "backgroundColor": "#DDD",
+        "textColor": "#2C3E50"
+    },
+    "Naseej": {
+        "displayName": "Naseej",
+        "themeName": "Modern Naseej",
+        "primaryColor": "#8E44AD",
+        "secondaryColor": "#3498DB",
+        "backgroundColor": "#FAFAFA",
+        "textColor": "#D3443D"
+    }
+}
